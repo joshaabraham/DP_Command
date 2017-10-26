@@ -1,0 +1,9 @@
+C:\test\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe.config
+C:\test\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csprojResolveAssemblyReference.cache
+C:\test\CommandPattern\CommandPattern\obj\Debug\CommandPattern.GUI.CommandForm.resources
+C:\test\CommandPattern\CommandPattern\obj\Debug\CommandPattern.Properties.Resources.resources
+C:\test\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csproj.GenerateResource.Cache
+C:\test\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe
+C:\test\CommandPattern\CommandPattern\bin\Debug\CommandPattern.pdb
+C:\test\CommandPattern\CommandPattern\obj\Debug\CommandPattern.exe
+C:\test\CommandPattern\CommandPattern\obj\Debug\CommandPattern.pdb
